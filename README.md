@@ -74,11 +74,11 @@ At the end give endmodule.
 Run the program and choose RTL viewer to get RTL realization.
 
 ### PROGRAM :
-/*
+```
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
 Developed by: Naramala Niharika
 RegisterNumber:  212221240031
-/*
+```
 ### Encoder:
 ```
 module encode(a,b,c,d0,d1,d2,d3,d4,d5,d6,d7);
